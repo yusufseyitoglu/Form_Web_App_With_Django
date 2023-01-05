@@ -8,4 +8,4 @@ I developed this web form page. I saved some parameters from users in the user f
 + JavaScript
 + Bootstrap
 
-![alt text denemeeeeeeee](http://url/to/img.png)
+![alt text denemeeeeeeee](https://github.com/yusufseyitoglu/Form_Web_App_With_Django/blob/main/png%20for%20md/Sanal%20ortam%20kurulumu.png)
