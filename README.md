@@ -186,4 +186,5 @@ Veri tabanımıza localhost tarafından 11 form gönderdik ve onları ilk önce 
 
 ![alt text](https://github.com/yusufseyitoglu/Form_Web_App_With_Django/blob/main/png%20for%20md/%C5%9Eekil%2057.%20Veri%20taban%C4%B1%20g%C3%B6r%C3%BCn%C3%BCm%C3%BC.png)
 
+![alt text](https://github.com/yusufseyitoglu/Form_Web_App_With_Django/blob/main/png%20for%20md/Form%20sayfas%C4%B1n%C4%B1n%20Datatable%20b%C3%B6l%C3%BCm%C3%BC.png)
 
